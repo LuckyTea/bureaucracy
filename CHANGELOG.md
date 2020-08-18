@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## [Unreleased]
 
 This category contains all the changes that are being prepared for release.
 
@@ -15,3 +15,5 @@ This category contains all the changes that are being prepared for release.
 ### Added
 
 * [#1](link_to_MR/issue) Add changelog.md ([LuckyTea](https://github.com/LuckyTea))
+
+[Unreleased]: https://github.com/LuckyTea/bureaucracy/compare/v0.10.0...HEAD
